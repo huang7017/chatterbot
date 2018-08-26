@@ -1,6 +1,0 @@
-index.js內需要安裝
-npm install child_process
-npm install express
-npm install init
-main.py
-內需要訓練chatterbot
